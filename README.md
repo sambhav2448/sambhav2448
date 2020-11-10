@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+
+
+I am your next door Javascript developer. I am proficient at making end to end products with JS.Want a full stack web application? Maybe a cross-platform app ? Or bored and want to rant? HMU✌🏼
+I am a junior at VIT, Vellore pursuing yours truly, B.Tech in Computer Science and Engineering 💻. I love taking part in hackathons👨‍💻, helping fellow developers and playing chess ❤️.
+Scroll down to find out more about me! 😄
+Check me out on [sambhav.live](https://www.sambhav.live) to know more
